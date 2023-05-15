@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson13.Struct\19.IntMethods\obj\Debug\net6.0\19.IntMethods.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson13.Struct\19.IntMethods\obj\Debug\net6.0\19.IntMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson13.Struct\19.IntMethods\obj\Debug\net6.0\19.IntMethods.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson13.Struct\19.IntMethods\obj\Debug\net6.0\19.IntMethods.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson13.Struct\19.IntMethods\obj\Debug\net6.0\19.IntMethods.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson13.Struct\19.IntMethods\bin\Debug\net6.0\19.IntMethods.exe
+D:\Projects\VS Projects\Lesson13.Struct\19.IntMethods\bin\Debug\net6.0\19.IntMethods.deps.json
+D:\Projects\VS Projects\Lesson13.Struct\19.IntMethods\bin\Debug\net6.0\19.IntMethods.runtimeconfig.json
+D:\Projects\VS Projects\Lesson13.Struct\19.IntMethods\bin\Debug\net6.0\19.IntMethods.dll
+D:\Projects\VS Projects\Lesson13.Struct\19.IntMethods\bin\Debug\net6.0\19.IntMethods.pdb
+D:\Projects\VS Projects\Lesson13.Struct\19.IntMethods\obj\Debug\net6.0\19.IntMethods.dll
+D:\Projects\VS Projects\Lesson13.Struct\19.IntMethods\obj\Debug\net6.0\refint\19.IntMethods.dll
+D:\Projects\VS Projects\Lesson13.Struct\19.IntMethods\obj\Debug\net6.0\19.IntMethods.pdb
+D:\Projects\VS Projects\Lesson13.Struct\19.IntMethods\obj\Debug\net6.0\19.IntMethods.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson13.Struct\19.IntMethods\obj\Debug\net6.0\ref\19.IntMethods.dll

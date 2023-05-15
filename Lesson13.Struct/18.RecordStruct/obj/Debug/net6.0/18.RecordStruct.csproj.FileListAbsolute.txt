@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson13.Struct\18.RecordStruct\bin\Debug\net6.0\18.RecordStruct.exe
+D:\Projects\VS Projects\Lesson13.Struct\18.RecordStruct\bin\Debug\net6.0\18.RecordStruct.deps.json
+D:\Projects\VS Projects\Lesson13.Struct\18.RecordStruct\bin\Debug\net6.0\18.RecordStruct.runtimeconfig.json
+D:\Projects\VS Projects\Lesson13.Struct\18.RecordStruct\bin\Debug\net6.0\18.RecordStruct.dll
+D:\Projects\VS Projects\Lesson13.Struct\18.RecordStruct\bin\Debug\net6.0\18.RecordStruct.pdb
+D:\Projects\VS Projects\Lesson13.Struct\18.RecordStruct\obj\Debug\net6.0\18.RecordStruct.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson13.Struct\18.RecordStruct\obj\Debug\net6.0\18.RecordStruct.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson13.Struct\18.RecordStruct\obj\Debug\net6.0\18.RecordStruct.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson13.Struct\18.RecordStruct\obj\Debug\net6.0\18.RecordStruct.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson13.Struct\18.RecordStruct\obj\Debug\net6.0\18.RecordStruct.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson13.Struct\18.RecordStruct\obj\Debug\net6.0\18.RecordStruct.dll
+D:\Projects\VS Projects\Lesson13.Struct\18.RecordStruct\obj\Debug\net6.0\refint\18.RecordStruct.dll
+D:\Projects\VS Projects\Lesson13.Struct\18.RecordStruct\obj\Debug\net6.0\18.RecordStruct.pdb
+D:\Projects\VS Projects\Lesson13.Struct\18.RecordStruct\obj\Debug\net6.0\18.RecordStruct.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson13.Struct\18.RecordStruct\obj\Debug\net6.0\ref\18.RecordStruct.dll

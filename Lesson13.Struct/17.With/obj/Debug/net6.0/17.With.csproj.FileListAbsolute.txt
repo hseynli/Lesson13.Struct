@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson13.Struct\17.With\bin\Debug\net6.0\17.With.exe
+D:\Projects\VS Projects\Lesson13.Struct\17.With\bin\Debug\net6.0\17.With.deps.json
+D:\Projects\VS Projects\Lesson13.Struct\17.With\bin\Debug\net6.0\17.With.runtimeconfig.json
+D:\Projects\VS Projects\Lesson13.Struct\17.With\bin\Debug\net6.0\17.With.dll
+D:\Projects\VS Projects\Lesson13.Struct\17.With\bin\Debug\net6.0\17.With.pdb
+D:\Projects\VS Projects\Lesson13.Struct\17.With\obj\Debug\net6.0\17.With.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson13.Struct\17.With\obj\Debug\net6.0\17.With.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson13.Struct\17.With\obj\Debug\net6.0\17.With.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson13.Struct\17.With\obj\Debug\net6.0\17.With.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson13.Struct\17.With\obj\Debug\net6.0\17.With.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson13.Struct\17.With\obj\Debug\net6.0\17.With.dll
+D:\Projects\VS Projects\Lesson13.Struct\17.With\obj\Debug\net6.0\refint\17.With.dll
+D:\Projects\VS Projects\Lesson13.Struct\17.With\obj\Debug\net6.0\17.With.pdb
+D:\Projects\VS Projects\Lesson13.Struct\17.With\obj\Debug\net6.0\17.With.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson13.Struct\17.With\obj\Debug\net6.0\ref\17.With.dll

@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson13.Struct\20.DoubleMethods\bin\Debug\net6.0\20.DecimalMethods.exe
+D:\Projects\VS Projects\Lesson13.Struct\20.DoubleMethods\bin\Debug\net6.0\20.DecimalMethods.deps.json
+D:\Projects\VS Projects\Lesson13.Struct\20.DoubleMethods\bin\Debug\net6.0\20.DecimalMethods.runtimeconfig.json
+D:\Projects\VS Projects\Lesson13.Struct\20.DoubleMethods\bin\Debug\net6.0\20.DecimalMethods.dll
+D:\Projects\VS Projects\Lesson13.Struct\20.DoubleMethods\bin\Debug\net6.0\20.DecimalMethods.pdb
+D:\Projects\VS Projects\Lesson13.Struct\20.DoubleMethods\obj\Debug\net6.0\20.DecimalMethods.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson13.Struct\20.DoubleMethods\obj\Debug\net6.0\20.DecimalMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson13.Struct\20.DoubleMethods\obj\Debug\net6.0\20.DecimalMethods.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson13.Struct\20.DoubleMethods\obj\Debug\net6.0\20.DecimalMethods.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson13.Struct\20.DoubleMethods\obj\Debug\net6.0\20.DecimalMethods.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson13.Struct\20.DoubleMethods\obj\Debug\net6.0\20.DecimalMethods.dll
+D:\Projects\VS Projects\Lesson13.Struct\20.DoubleMethods\obj\Debug\net6.0\refint\20.DecimalMethods.dll
+D:\Projects\VS Projects\Lesson13.Struct\20.DoubleMethods\obj\Debug\net6.0\20.DecimalMethods.pdb
+D:\Projects\VS Projects\Lesson13.Struct\20.DoubleMethods\obj\Debug\net6.0\20.DecimalMethods.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson13.Struct\20.DoubleMethods\obj\Debug\net6.0\ref\20.DecimalMethods.dll

@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson13.Struct\11.Inheritance\bin\Debug\net6.0\11.Inheritance.exe
+D:\Projects\VS Projects\Lesson13.Struct\11.Inheritance\bin\Debug\net6.0\11.Inheritance.deps.json
+D:\Projects\VS Projects\Lesson13.Struct\11.Inheritance\bin\Debug\net6.0\11.Inheritance.runtimeconfig.json
+D:\Projects\VS Projects\Lesson13.Struct\11.Inheritance\bin\Debug\net6.0\11.Inheritance.dll
+D:\Projects\VS Projects\Lesson13.Struct\11.Inheritance\bin\Debug\net6.0\11.Inheritance.pdb
+D:\Projects\VS Projects\Lesson13.Struct\11.Inheritance\obj\Debug\net6.0\11.Inheritance.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson13.Struct\11.Inheritance\obj\Debug\net6.0\11.Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson13.Struct\11.Inheritance\obj\Debug\net6.0\11.Inheritance.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson13.Struct\11.Inheritance\obj\Debug\net6.0\11.Inheritance.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson13.Struct\11.Inheritance\obj\Debug\net6.0\11.Inheritance.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson13.Struct\11.Inheritance\obj\Debug\net6.0\11.Inheritance.dll
+D:\Projects\VS Projects\Lesson13.Struct\11.Inheritance\obj\Debug\net6.0\refint\11.Inheritance.dll
+D:\Projects\VS Projects\Lesson13.Struct\11.Inheritance\obj\Debug\net6.0\11.Inheritance.pdb
+D:\Projects\VS Projects\Lesson13.Struct\11.Inheritance\obj\Debug\net6.0\11.Inheritance.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson13.Struct\11.Inheritance\obj\Debug\net6.0\ref\11.Inheritance.dll

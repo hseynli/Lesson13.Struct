@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson13.Struct\04.Structure\bin\Debug\net6.0\04.Structure.exe
+D:\Projects\VS Projects\Lesson13.Struct\04.Structure\bin\Debug\net6.0\04.Structure.deps.json
+D:\Projects\VS Projects\Lesson13.Struct\04.Structure\bin\Debug\net6.0\04.Structure.runtimeconfig.json
+D:\Projects\VS Projects\Lesson13.Struct\04.Structure\bin\Debug\net6.0\04.Structure.dll
+D:\Projects\VS Projects\Lesson13.Struct\04.Structure\bin\Debug\net6.0\04.Structure.pdb
+D:\Projects\VS Projects\Lesson13.Struct\04.Structure\obj\Debug\net6.0\04.Structure.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson13.Struct\04.Structure\obj\Debug\net6.0\04.Structure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson13.Struct\04.Structure\obj\Debug\net6.0\04.Structure.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson13.Struct\04.Structure\obj\Debug\net6.0\04.Structure.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson13.Struct\04.Structure\obj\Debug\net6.0\04.Structure.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson13.Struct\04.Structure\obj\Debug\net6.0\04.Structure.dll
+D:\Projects\VS Projects\Lesson13.Struct\04.Structure\obj\Debug\net6.0\refint\04.Structure.dll
+D:\Projects\VS Projects\Lesson13.Struct\04.Structure\obj\Debug\net6.0\04.Structure.pdb
+D:\Projects\VS Projects\Lesson13.Struct\04.Structure\obj\Debug\net6.0\04.Structure.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson13.Struct\04.Structure\obj\Debug\net6.0\ref\04.Structure.dll
